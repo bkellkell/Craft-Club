@@ -1,0 +1,15 @@
+{
+    "name": "The Backpack",
+    "icon": "backpacked:backpack",
+    "category": "patchouli:starter_kit_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " The $(item)Backpack$(), is... a $(item)Backpack$(). It can be equipped to the back slot in the curios inventory by clicking the circular icon in the top left of your character portrait in the inventory.$(br2)Once it is equipped, you can access the $(item)Backpack$() by pressing the B key."
+        },
+        {
+            "type": "text",
+            "text": " The $(item)Backpack$() comes with 9 slots, but you can craft higher tier $(item)Backpacks$() with more rows of storage. Try searching \"@backpack\" in the JEI search bar, and clicking on the other $(item)Backpacks$() to see the recipes."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "flower": "tag:misctags:flowers/magical_flowers",
+  "maxTimeInHive": 1000,
+  "hasHoneycomb": true,
+  "ColorData": {
+    "isBeeColored": true,
+    "primaryColor": "#00C9EA",
+    "honeycombColor": "#00C9EA"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "mana-and-artifice:vinteum_dust",
+    "secondaryOutput": "mana-and-artifice:chimerite_gem",
+    "secondaryOutputWeight": 0.33
+  },
+  "SpawnData": {
+    "canSpawnInWorld": true,
+    "biomeWhitelist": "tag:magical"
+  },
+  "BreedData": {
+    "isBreedable": false
+  },
+  "TraitData": {
+    "hasTraits": false
+  }
+}

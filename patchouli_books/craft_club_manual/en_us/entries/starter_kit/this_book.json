@@ -1,0 +1,31 @@
+{
+    "name": "This Book",
+    "icon": "minecraft:book",
+    "category": "patchouli:starter_kit_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " This book is actually several books in one!$(br2)If you left click the air while holding this book, it will turn into the $(item)Akashic Tome$().$(br2) If you right click while holding the $(item)Akashic Tome$(), it will open an interface listing all the books contained inside the tome, including this one!"
+        },
+        {
+            "type": "text",
+            "text": " Any of these books can be turned $(italic)back$() into the $(item)Akashic Tome$() by left clicking the air.$(br2) The one you spawned with contains every Guide Book provided by mods in this pack, and one more special book that will be explained on the following pages."
+        },
+        {
+            "type": "text",
+            "text": "$(bold)The Blueprint Book$()$(br2) This pack includes a mod called Silent Gear, which adds a system for creating modular tools and armor. $(br2)These tools and armor have different stats and effects based on the materials used to make each $(thing)part$() of the item. $(br2)The $(thing)parts$() are made using $(thing)blueprints$(), by placing the blueprint in a crafting table with the required number of materials."
+        },
+        {
+            "type": "text",
+            "text": " The $(thing)parts$() can then be combined in a crafting table to make the desired item.$(br2)This mod adds $(italic)a lot$() of blueprints. To avoid clogging your inventory or chests with blueprints, and make switching between them more convenient, it comes with the $(item)Blueprint Book$().$(br2)The Blueprint Book will hold all your blueprints, and can be used in place of a blueprint when crafting gear. "
+        },
+        {
+            "type": "text",
+            "text": "If you hover over the Blueprint Book in your inventory, the tooltip will display which blueprint is currently selected. You can cycle through blueprints by pressing C or Z (default). $(br2)You can also right click while holding the Blueprint Book to open its inventory and directly select a blueprint by Ctrl+Clicking on it, or remove or add any blueprints from or to the book."
+        },
+        {
+            "type": "text",
+            "text": "The book will take the place of the selected blueprint in the crafting recipe. $(br2)And don't worry! Crafting with the Blueprint Book, even inside of the Akashic Tome, will not cause you to lose any of your blueprints, or any of the other books inside the tome."
+        }
+    ]
+}

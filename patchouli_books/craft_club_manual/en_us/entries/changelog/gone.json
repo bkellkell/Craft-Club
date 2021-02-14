@@ -1,0 +1,15 @@
+{
+    "name": "Removed Mods",
+    "icon": "minecraft:tnt",
+    "category": "patchouli:changelog",
+    "pages": [
+        {
+            "type": "text",
+            "text": " $(li)$(bold)Productive Bees:$() We are a Resourceful Bees family, now. All bees from productive bees are now covered by custom resourceful bees. If you need any bees, hives, etc. from The Old World replaced, just ask kell.$(li)$(bold)Plato's Transporters:$() Nobody was using this anyway. If you want to make an airship you can do it with create."
+        },
+        {
+            "type": "text",
+            "text": " $(li)$(bold)Netherite Horse Armor:$() replaced by Netherite Plus.$(li)$(bold)Curious Elytra:$() replaced by Colytra.$(li)$(bold)Hwyla:$() replaced by The One Probe, for compatibility reasons."
+        }
+    ]
+}

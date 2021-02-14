@@ -1,0 +1,30 @@
+{
+  "flower": "tag:forge:storage_blocks/azure_silver",
+  "maxTimeInHive": 800,
+  "traits": ["nether"],
+  "hasHoneycomb": true,
+  "ColorData": {
+    "isBeeColored": true,
+    "honeycombColor": "#fdc0ff",
+    "primaryColor": "#fdc0ff"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "silentgear:azure_silver_ingot"
+  },
+  "SpawnData": {
+    "spawnInWorld": true,
+    "biomeWhitelist": "tag:nether"
+  },
+  "BreedData": {
+    "breedable": true,
+    "feedItem": "tag:forge:nuggets/azure_silver",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

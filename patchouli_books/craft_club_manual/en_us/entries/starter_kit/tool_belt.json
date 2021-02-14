@@ -1,0 +1,15 @@
+{
+    "name": "The Tool Belt",
+    "icon": "toolbelt:belt",
+    "category": "patchouli:starter_kit_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " The tool belt, is... a tool belt. It can be equipped to the belt slot in the curios inventory by clicking the circular icon in the top left of your character portrait in the inventory, and scrolling down to find the slot.$(br2)Once it is equipped, you can access the belt by holding the R key while holding the tool you want to add to the belt."
+        },
+        {
+            "type": "text",
+            "text": " Your tool belt comes with 3 slots, but more can be added by crafting $(item)Belt Pouches$()."
+        }
+    ]
+}

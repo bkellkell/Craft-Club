@@ -1,0 +1,11 @@
+{
+    "name": "The Gem Bag",
+    "icon": "silentgems:gem_bag",
+    "category": "patchouli:starter_kit_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": " The $(item)Gem Bag$() is... a bag for holding gems. While in your inventory, any $(thing)Gems$() you pick up will be deposited straight into the $(item)Gem Bag$().$(br)$(bold)THIS INCLUDES DIAMONDS!$()$(br) Silent Gems adds a lot of different gems that give different effects when used to make tools or armor from Silent Gear. You will find a lot of these while mining, so the $(item)Gem Bag$() is there to keep them from clogging your inventory."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 31, 2021 6:18:24 PM
+
+#forge:gasoline
+- immersivepetroleum:gasoline
+
+#forge:lubricant
+- immersivepetroleum:lubricant
+
+#forge:crude_oil
+- immersivepetroleum:oil
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:biodiesel
+- immersiveengineering:biodiesel
+
+#forge:milk
+- create:flowing_milk
+- create:milk
+
+#forge:herbicide
+- immersiveengineering:herbicide
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:diesel
+- immersivepetroleum:diesel
+
+#forge:plantoil
+- immersiveengineering:plantoil
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#forge:ethanol
+- immersiveengineering:ethanol
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:honey
+- resourcefulbees:honey
+- resourcefulbees:catnip_honey
+- create:flowing_honey
+- create:honey
+
+#forge:creosote
+- immersiveengineering:creosote
+
+#forge:concrete
+- immersiveengineering:concrete
+
+#forge:potion
+- immersiveengineering:potion
+
+#forge:napalm
+- immersivepetroleum:napalm

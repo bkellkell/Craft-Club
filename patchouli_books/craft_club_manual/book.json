@@ -1,0 +1,5 @@
+{
+    "name": "Craft Club for Dummies",
+    "landing_text": "Hello, $(playername)!$(br2)Welcome to Craft Club!$(br2)This book will guide you through some of the basics of the modpack.",
+    "version": 1
+}

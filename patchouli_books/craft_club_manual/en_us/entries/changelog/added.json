@@ -1,0 +1,15 @@
+{
+    "name": "Added Mods",
+    "icon": "minecraft:diamond",
+    "category": "patchouli:changelog",
+    "pages": [
+        {
+            "type": "text",
+            "text": " Placeholder Text"
+        },
+        {
+            "type": "text",
+            "text": " Placeholder Text"
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 {
-  "flower": "tag:misctags:flowers/forest_flowers",
+  "flower": "all",
   "maxTimeInHive": 600,
   "hasHoneycomb": true,
   "ColorData": {

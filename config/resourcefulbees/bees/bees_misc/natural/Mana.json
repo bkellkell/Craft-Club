@@ -1,5 +1,5 @@
 {
-  "flower": "tag:misctags:flowers/magical_flowers",
+  "flower": "all",
   "maxTimeInHive": 1000,
   "hasHoneycomb": true,
   "ColorData": {

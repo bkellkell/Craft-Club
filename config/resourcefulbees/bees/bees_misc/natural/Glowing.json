@@ -1,5 +1,5 @@
 {
-  "flower": "tag:misctags:flowers/glowing_flowers",
+  "flower": "all",
   "maxTimeInHive": 1000,
   "hasHoneycomb": true,
   "traits": ["nether", "pigman"],

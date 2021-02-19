@@ -106,6 +106,7 @@ onEvent('recipes', event => {
   // We change the recipes to use aluminum and brass, which are already used by other mods
   event.replaceInput({}, '#forge:ingots/titanium', '#forge:ingots/aluminum')
   event.replaceInput({}, '#forge:ingots/bronze', '#forge:ingots/brass')
+  event.replaceInput({}, 'refinedstorage:silicon', '#forge:silicon')
 
   // Remove all recipes from Survival Plus, as it is only included as a dependency for lightsabers
   event.remove({ mod: 'survivalplus' })
